@@ -1,7 +1,7 @@
-a=str(raw_input())
-b=('a','e','i','o','u')
+c=str(raw_input())
+k=('a','e','i','o','u')
 if a.isalpha():
-     if a in b:
+     if c in k:
          print("vowel")
      else:
          print("Consonant")
